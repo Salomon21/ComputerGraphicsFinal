@@ -169,6 +169,7 @@ bool setup_textures()
 		|| !load_TGA(&textures[36], "Data/labioinferior.tga")
 		|| !load_TGA(&textures[37], "Data/chicle.tga")
 		|| !load_TGA(&textures[38], "Data/camera.tga")
+		|| !load_TGA(&textures[39], "Data/railing2.tga")
 
 		)
 		return false;
@@ -777,6 +778,9 @@ bool no_collision()
 		if (g_xpos > 0.30 && g_xpos < 1.60 && g_zpos < -1.65 && g_zpos > -2.60) {
 			return false;
 		}
+		else if (g_zpos < -5.98) {
+			return false;
+		}
 		else if (g_xpos < -0.30 && g_xpos > -1.65 && g_zpos < -1.65 && g_zpos > -2.60) {
 			return false;
 		}
@@ -796,6 +800,12 @@ bool no_collision()
 			if (g_zpos <= -1.80) {
 				return false;
 			}
+		}
+		else if (g_zpos <= -4.3 && g_xpos <= -1.60 ) {
+			return false;
+		}
+		else if (g_zpos <= -5.5 && g_xpos <= -1.99) {
+			return false;
 		}
 	}
 	return true;
