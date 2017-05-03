@@ -1,0 +1,3 @@
+﻿  Error de análisis
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(123,5): error MSB3073: El comando "xcopy /d /y "C:\Users\Salo\Desktop\Tarea\8vo Semestre\Graficas\Digital Museum (Final)\ComputerGraphicsFinal\Project6\dll\*.*" "C:\Users\Salo\Desktop\Tarea\8vo Semestre\Graficas\Digital Museum (Final)\ComputerGraphicsFinal\x64\Release\
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(123,5): error MSB3073: :VCEnd" salió con el código 4.

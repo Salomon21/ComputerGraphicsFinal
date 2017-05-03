@@ -1,0 +1,14 @@
+﻿  Museum.cpp
+c:\users\salo\desktop\tarea\8vo semestre\graficas\digital museum (final)\computergraphicsfinal\project6\museum.cpp(19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: vea la declaración de 'fopen'
+c:\users\salo\desktop\tarea\8vo semestre\graficas\digital museum (final)\computergraphicsfinal\project6\museum.cpp(101): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: vea la declaración de 'fopen'
+c:\users\salo\desktop\tarea\8vo semestre\graficas\digital museum (final)\computergraphicsfinal\project6\museum.cpp(103): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: vea la declaración de 'sscanf'
+c:\users\salo\desktop\tarea\8vo semestre\graficas\digital museum (final)\computergraphicsfinal\project6\museum.cpp(111): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: vea la declaración de 'sscanf'
+c:\users\salo\desktop\tarea\8vo semestre\graficas\digital museum (final)\computergraphicsfinal\project6\museum.cpp(116): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: vea la declaración de 'sscanf'
+c:\users\salo\desktop\tarea\8vo semestre\graficas\digital museum (final)\computergraphicsfinal\project6\museum.cpp(252): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+c:\users\salo\desktop\tarea\8vo semestre\graficas\digital museum (final)\computergraphicsfinal\project6\museum.cpp(245): error C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: vea la declaración de 'vsprintf'
