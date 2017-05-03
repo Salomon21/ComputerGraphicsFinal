@@ -805,7 +805,7 @@ bool no_collision()
 			return false;
 		}
 		else if (g_zpos <= -5.5 && g_xpos <= -1.99) {
-			return false;
+			return false; 
 		}
 	}
 	return true;
