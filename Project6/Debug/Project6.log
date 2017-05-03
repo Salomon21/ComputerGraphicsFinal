@@ -1,0 +1,2 @@
+﻿  Museum.cpp
+c:\users\v0r0\documents\visual studio 2015\projects\project6\project6\museum.h(7): fatal error C1083: Cannot open include file: 'glut.h': No such file or directory
